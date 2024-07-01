@@ -1,0 +1,6 @@
+[submodule "bernoulli"]
+	path = bernoulli
+	url = git@github.com:Siiir/bernoulli.git
+[submodule "knapsack"]
+	path = knapsack
+	url = git@github.com:Siiir/rust-knapsack.git
