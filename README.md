@@ -2,16 +2,17 @@
 
 ## Contests
 
-### [bernoulli](https://github.com/Siiir/Bernoulli)
-my most interesting & creative calculator using **own optimizations** (**performs advanced math INCREADIBLY FAST**). It is specialized in partial sums.
+### 🧮 [bernoulli](https://github.com/Siiir/Bernoulli) on Python3
+My most interesting & creative calculator using **own optimizations** (**performs advanced math INCREDIBLY FAST**). It is specialized in partial sums.
 
-### [knapsack](https://github.com/Siiir/rust-knapsack)
-is a **my custom powerful** optimization over classic *brute-force* solution.  
-+ Searching through whole solution space it **will always find the optimal solution**.  
-+ Capable of cutting unpromising branches it **can handle enourmous data sets** as long as given `<CAPACITY>` is small.  
+### 🎒 [knapsack](https://github.com/Siiir/rust-knapsack) on Rust
+A **custom powerful** optimization over classic *brute-force* solution.  
++ Searching through whole solution space, it **will always find the optimal solution**.  
++ Capable of cutting unpromising branches, it **can handle enormous data sets** as long as given `<CAPACITY>` is small.  
 
-### Dijkstra
-Dijkstra projects awaits publishing.
+### 🐇 [General GG Fibonacci (GGGF)](https://github.com/Siiir/csharp-GGGF) on C#
+**General**ized **G**enerator of **G**igantic **Fibonacci** numbers.  
+Features: **Speed** – matrix based computation, **Accuracy** – perfectly correct output, **Flexibility** – negative indexes accepted.
 
-### GigaFib
-GigaFib projects needs digging out.
+### 🚀 Dijkstra
+Dijkstra projects await publishing.
