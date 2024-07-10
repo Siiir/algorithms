@@ -1,6 +1,6 @@
 # My algorithmic projects
 
-## Contests
+## Contents
 
 ### 🧮 [bernoulli](https://github.com/Siiir/Bernoulli) on Python3
 My most interesting & creative calculator using **own optimizations** (**performs advanced math INCREDIBLY FAST**). It is specialized in partial sums.
